@@ -1,0 +1,5 @@
+﻿  TestSort.cpp
+C:\Users\иван\source\repos\lab2\lab2\Header1.cpp(76,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\иван\source\repos\lab2\lab2\Header1.cpp(135,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     Создается библиотека C:\Users\иван\source\repos\lab2\Debug\TestSort.lib и объект C:\Users\иван\source\repos\lab2\Debug\TestSort.exp
+  TestSort.vcxproj -> C:\Users\иван\source\repos\lab2\Debug\TestSort.dll
